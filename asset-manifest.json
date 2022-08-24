@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WeatherBuild/static/css/main.64c1f663.css",
+    "main.js": "/WeatherBuild/static/js/main.18060e66.js",
+    "static/media/rain.png": "/WeatherBuild/static/media/rain.513cb7a576bcdf46ceed.png",
+    "static/media/sun.png": "/WeatherBuild/static/media/sun.b972dcf61eb381f03551.png",
+    "static/media/cloud.png": "/WeatherBuild/static/media/cloud.15eb556cd941ec7fc2b4.png",
+    "index.html": "/WeatherBuild/index.html",
+    "main.64c1f663.css.map": "/WeatherBuild/static/css/main.64c1f663.css.map",
+    "main.18060e66.js.map": "/WeatherBuild/static/js/main.18060e66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c1f663.css",
+    "static/js/main.18060e66.js"
+  ]
+}
